@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "versionCode": 110000,
-  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.2.9/mptv-tv.apk",
-  "releaseNotes": "MPTV 1.2.9: Animated intro is now the true launch screen — plays every time you open the app. Skippable with any remote button."
+  "version": "1.3.0",
+  "versionCode": 110100,
+  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.3.0/mptv-tv.apk",
+  "releaseNotes": "MPTV 1.3.0: the intro animation now starts the moment you open the app. Your login and settings are kept."
 }
