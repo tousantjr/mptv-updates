@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "versionCode": 109600,
-  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.2.5/mptv-1.2.5-tv.apk",
-  "releaseNotes": "MPTV 1.2.5: PPV and event channels show the event name in the guide, empty event slots are hidden, and Settings shows your guide coverage. Your login and settings are kept."
+  "version": "1.2.6",
+  "versionCode": 109700,
+  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.2.6/mptv-1.2.6-tv.apk",
+  "releaseNotes": "MPTV 1.2.6: free TV guides for Pluto TV, Samsung TV Plus, Plex and Roku channels, and better guide matching for streaming-app channels. Your login and settings are kept."
 }
