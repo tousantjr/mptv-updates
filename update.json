@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "versionCode": 110200,
-  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.3.1/mptv-1.3.1-tv.apk",
-  "releaseNotes": "MPTV 1.3.1: score alerts for your teams and Watch All Live on the Sports page. Your login and settings are kept."
+  "version": "1.3.2",
+  "versionCode": 110300,
+  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.3.2/mptv-1.3.2-tv.apk",
+  "releaseNotes": "MPTV 1.3.2: USA channels now show first in the guide, and a new Refresh button under On Demand reloads channels, guide and movies. Your login and settings are kept."
 }
