@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "versionCode": 109700,
-  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.2.6/mptv-1.2.6-tv.apk",
-  "releaseNotes": "MPTV 1.2.6: free TV guides for Pluto TV, Samsung TV Plus, Plex and Roku channels, and better guide matching for streaming-app channels. Your login and settings are kept."
+  "version": "1.2.7",
+  "versionCode": 109800,
+  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.2.7/mptv-1.2.7-tv.apk",
+  "releaseNotes": "MPTV 1.2.7: Fix channel guide: assign the correct guide to any channel from Settings > Live TV > TV guides. Your login and settings are kept."
 }
