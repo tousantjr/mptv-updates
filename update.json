@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "versionCode": 109800,
-  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.2.7/mptv-1.2.7-tv.apk",
-  "releaseNotes": "MPTV 1.2.7: Fix channel guide: assign the correct guide to any channel from Settings > Live TV > TV guides. Your login and settings are kept."
+  "version": "1.2.8",
+  "versionCode": 109900,
+  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.2.8/mptv-tv.apk",
+  "releaseNotes": "MPTV 1.2.8: Animated MPTV intro plays on every launch (skippable with any remote button). Install via Downloader app — do not use phone-to-TV transfer apps."
 }
