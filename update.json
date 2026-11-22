@@ -1,6 +1,8 @@
 {
-  "version": "1.3.2",
-  "versionCode": 110300,
-  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.3.2/mptv-1.3.2-tv.apk",
-  "releaseNotes": "MPTV 1.3.2: USA channels now show first in the guide, and a new Refresh button under On Demand reloads channels, guide and movies. Your login and settings are kept."
+  "version": "1.3.3",
+  "versionCode": 110400,
+  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.3.3/mptv-1.3.3-tv.apk",
+  "releaseNotes": "MPTV 1.3.3: USA categories in the guide are now in order: locals at the top, sports at the bottom, everything else A-Z. Your login and settings are kept.",
+  "downloadUrl": "http://is.gd/mptvtv",
+  "sha256": "afbf75c1b9c4661cf5b6690bf55a04401a2f6844f11e5c205e7e7d350f162d71"
 }
