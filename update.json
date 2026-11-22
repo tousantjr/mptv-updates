@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "versionCode": 109400,
-  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.2.3/mptv-1.2.3-tv.apk",
-  "releaseNotes": "MPTV 1.2.3: new Kids mode under Settings > Live TV > Parental controls. Your login and settings are kept."
+  "version": "1.2.4",
+  "versionCode": 109500,
+  "apkUrl": "https://github.com/tousantjr/mptv-updates/releases/download/v1.2.4/mptv-1.2.4-tv.apk",
+  "releaseNotes": "MPTV 1.2.4: voice search. Hold the remote's mic and say a channel or show name to search MPTV. Your login and settings are kept."
 }
